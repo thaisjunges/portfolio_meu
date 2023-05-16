@@ -40,7 +40,7 @@ body {
 }
 
 .menu {
-    background: rgba(164, 164, 241, 0.253);
+    background: rgba(25, 25, 119, 0.253);
     height: 40px;
     display: flex;
     justify-content: space-around;
@@ -76,8 +76,4 @@ body {
 .resumo {
     align-items: center;
     justify-content: space-evenly;
-}
-
-.container2 {
-    border: 2px solid red;
 }

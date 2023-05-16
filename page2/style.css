@@ -23,6 +23,7 @@ main {
 }
 
 .menu {
+    background: rgba(25, 25, 119, 0.253);
     height: 40px;
     display: flex;
     justify-content: space-around;
@@ -56,4 +57,3 @@ main {
     text-align: center;
     font-size: 20px;
 }
-
