@@ -18,7 +18,16 @@ section {
 }
 
 footer {
-    color: white;
+    color: #b4b23463;
     text-align: center;
     font-style: italic;
+}
+
+div {
+    text-align: center;
+    padding: 8px;
+}
+
+#imagem {
+ border-radius: 10p;   
 }
